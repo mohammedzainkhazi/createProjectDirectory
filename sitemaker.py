@@ -1,5 +1,5 @@
 import os
-from aicommunication import speak,listen
+#from aicommunication import speak,listen
 
 
 def createFile(PATH,filename):
